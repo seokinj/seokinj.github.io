@@ -7,7 +7,7 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: 'assets/images/profile.png'
 
 # If you want to include your resume, set to true
@@ -56,9 +56,9 @@ email: seokinj.91@gmail.com
 authors:
     seokinj:
         name: seokinj
-        bio: ******************
+        bio: '******************'
         external-image: false
-        picture: assets/images/profile.png
+        picture: 'assets/images/profile.png'
         twitter: seokinj
     #jamesfoster:
         #name: James Foster
