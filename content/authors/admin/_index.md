@@ -74,7 +74,7 @@ email: 'seokinj.91@gmail.com'
 highlight_name: true
 ---
 
-**About me**
+**About me!**
 
 I'm a security/privacy engineer with hands-on experience in Incident Response, Cyber Threat Intelligence, Malware Analysis, and Vulnerability Assessment. I've delivered tangible results across both technical security and privacy regulations—for example, leading national-level incident responses against state-sponsored cyber threats, building forensic processes for government investigations, and strengthening privacy enforcement frameworks at a national authority. With experience spanning national defense and a government privacy agency, I'm motivated to tackle global-scale challenges where engineering and regulation come together to build secure and privacy-preserving systems.
 
