@@ -2,12 +2,12 @@
 
 
 # Display name
-title: Prasenjit Karmakar
+title: Seokin Jang
 name_pronunciation: false
 
 # Full name (for SEO)
-first_name: Prasenjit
-last_name: Karmakar
+first_name: Seokin
+last_name: Jang
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Prime Minister's Research Fellow
+role: Personal Information Protection Commission's Deputy Director
 
 # Organizations/Affiliations to show in About widget
 organizations:
