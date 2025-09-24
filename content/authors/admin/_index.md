@@ -29,7 +29,7 @@ bio: I am a doctoral researcher in ubiquitous computing and sensing, currently a
 
 
 # Interests to show in About widget
-interests:
+interests/skills:
   - AI Privacy/Security
   - Privacy Regulations(GDPR, PIPA)
   - Vulnerability Assessments
