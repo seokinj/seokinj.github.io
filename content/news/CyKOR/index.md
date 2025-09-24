@@ -10,7 +10,7 @@ slides: example
 summary: a world-class hacking club that has won multiple international CTF competitions including DEFCON
 tags:
 - Personal
-title: CyKor, Korea University Hacking Club Founded
+title: Founded CyKor, Korea University Hacking Club
 links:
   - icon_pack: fas
     icon: scroll

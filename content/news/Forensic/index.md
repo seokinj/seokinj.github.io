@@ -10,7 +10,7 @@ slides: example
 summary: transitioning investigations from reliance on corporate self-reporting to proactive, evidence-based analysis.
 tags:
 - Personal
-title: PIPC's first digital forensic program established
+title: Established PIPC's first digital forensic program
 links:
   - icon_pack: fas
     icon: scroll
