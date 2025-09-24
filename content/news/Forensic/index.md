@@ -4,12 +4,12 @@ publishDate: 2025-01-17
 nolink: true
 #external_link: ""
 image:
-  caption: Fellowship
+  #caption: Fellowship
   focal_point: Smart
 slides: example
 summary: transitioning investigations from reliance on corporate self-reporting to proactive, evidence-based analysis.
-tags:
-- Personal
+#tags:
+#- Personal
 title: Established PIPC's first digital forensic program
 links:
   - icon_pack: fas
