@@ -30,13 +30,12 @@ bio: I am a doctoral researcher in ubiquitous computing and sensing, currently a
 
 # Interests to show in About widget
 interests:
-  - aa
-  - AI privacy
+  - AI Privacy/Security
+  - Privacy Regulations(GDPR, PIPA)
+  - Vulnerability Assessments
   - Malware Analysis
   - Threat Intelligence
 
-programming:
-  - Python, C/C++, Java, Shell scripting
 # Education to show in About widget
 education:
   courses:
@@ -64,9 +63,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: files/cv.pdf
+   - icon: cv
+     icon_pack: ai
+     link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'seokinj.91@gmail.com'
