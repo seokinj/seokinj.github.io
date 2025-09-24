@@ -64,8 +64,8 @@ experience:
         Responsibilities include:
         
         * Conducted vulnerability assessments and security audits of military information systems
-		* Participated R&D projects, including a deep learning-based fuzzer
-		* Participated in joint military exercise as part of both Blue Team and the Red Team
+	    * Participated R&D projects, including a deep learning-based fuzzer
+	    * Participated in joint military exercise as part of both Blue Team and the Red Team
 design:
   columns: '2'
 ---
