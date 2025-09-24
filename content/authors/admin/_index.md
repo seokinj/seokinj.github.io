@@ -82,9 +82,3 @@ I'm a security/privacy engineer with hands-on experience in Incident Response, C
 * First Place, Cyber Officier Training Program - ROK Army, 2016
 * Excellence Award, Secure Coding Competition - Korea Internet & Security Agency(KISA), 2014
 * Excellence Award, ROK Army Cybersecurity Challenge, 2014
-
-**Outreach**
-
-* [Distributed Systems](https://medium.com/@prasenjitkarmakar52282) blogs for beginners and advanced learners
-* [shardQ](https://github.com/prasenjit52282/shardQ), MQTT-clone implementation for advanced flask and docker users
-* [LKMs](https://github.com/prasenjit52282/linux_LKM) with proc and ioctl interface for kernel developers
