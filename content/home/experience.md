@@ -24,21 +24,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Visiting Researcher
+  - title: Deputy Director, Privacy Investigator
     company: Personal Information Protection Commission
     company_url: 'https://pipc.go.kr'
     company_logo: 'pipc'
-    location: 80 Stamford Road, Singapore
+    location: 209 Sejong-daero, Jongno-gu, Seoul 03171, Korea
     date_start: '2025-07-07'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Collaborative Research
-        * Embodied AI and LLMs
+        * Investigated privacy incidents
+        * Audited high-risk data processing systems
 
-  - title: Doctoral Researcher
-    company: Indian Institute of Technology Kharagpur
+  - title: Captain, Cyber Threat Intelligence Analyst
+    company: Cyber Operations Command(Cyber Warfare HQ, ROK Army)
     company_url: 'http://www.iitkgp.ac.in/'
     company_logo: 'iitkgp'
     location: Kharagpur,India
