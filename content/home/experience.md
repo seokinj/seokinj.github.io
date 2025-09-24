@@ -40,8 +40,8 @@ experience:
 
   - title: Captain, Cyber Threat Intelligence Analyst
     company: Cyber Operations Command(Cyber Warfare HQ, ROK Army)
-    company_url: 'http://www.iitkgp.ac.in/'
-    company_logo: 'iitkgp'
+    company_url: 'https://www.mnd.go.kr/mbshome/mbs/mnd/index.jsp'
+    company_logo: 'cocc'
     location: Seoul, Korea
     date_start: '2019-06-04'
     date_end: '2023-05-04'
