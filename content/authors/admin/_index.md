@@ -17,33 +17,30 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Personal Information Protection Commission's Deputy Director
+role: Deputy Director
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UbiNet, IIT Kharagpur
-    url: https://cse.iitkgp.ac.in/resgrp/ubinet/
+  - name: Personal Information Protection Commission(PIPC), Korea
+    url: https://pipc.go.kr
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a doctoral researcher in ubiquitous computing and sensing, currently at the IIT Kharagpur (India).
 
+
 # Interests to show in About widget
 interests:
-  - Sensing and HCI
-  - Internet of Things
-  - Distributed Systems
-  - Machine Learning
-  - Embodied AI and LLMs
+  - AI Privacy/Security
+  - Privacy Enhancing Technology
+  - Malware Analysis
+  - Threat Intelligence
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science and Engineering
-      institution: Indian Institute of Technology Kharagpur (India)
-      year: 2022 - Present
-    - course: Bachelors in Computer Science and Engineering
-      institution: Maulana Abul Kalam Azad University of Technology (India)
-      year: 2016 - 2020
+    - course: Bachelor of Engineering, Information Security
+      institution: Korea University
+      year: 2012 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,21 +50,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/prasenjit52282
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=uK96UkwAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/prasenjit52282
+    link: https://github.com/seokinj
   - icon: linkedin-in
     icon_pack: fab
-    link: https://www.linkedin.com/in/prasenjit52282/
+    link: https://www.linkedin.com/in/seokinj91/
     label: Follow me on Linkedin
     display:
       header: true
@@ -79,7 +67,7 @@ social:
   #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'seokinj.91@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -87,14 +75,14 @@ highlight_name: true
 
 **About me**
 
-I am presently pursuing Ph.D. in the Department of Computer Science and Engineering at the Indian Institute of Technology Kharagpur, India. I am a member of [UbiNet: Ubiquitous Networked Systems Lab](https://cse.iitkgp.ac.in/resgrp/ubinet/). I have been awarded [Prime Minister's Fellowship](https://www.pmrf.in/) for my Doctoral Research.
+I'm a security/privacy engineer with hands-on experience in Incident Response, Cyber Threat Intelligence, Malware Analysis, and Vulnerability Assessment. I've delivered tangible results across both technical security operations and privacy regulations—for example, leading national-level incident responses against state-sponsored cyber threats, building forensic processes for government investigations, and strengthening privacy enforcement frameworks at a national authority. With experience spanning national defense and a government privacy agency, I'm motivated to tackle global-scale challenges where engineering and regulation come together to build secure and privacy-preserving systems.
 
-**Open source and open data**
-* [Dalton-Dataset](https://github.com/prasenjit52282/dalton-dataset) on Indoor Air pollution and Activites, India 
-* [Bus Trajectory](https://github.com/stilllearningsoumya/bus_trajectory_dataset) Dataset for [54 feet-route](https://www.google.com/maps/dir/durgapur/54+Feet/@23.5347909,87.2863414,15z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x39f7710b47a89171:0x429e1bdb57e009dd!2m2!1d87.3119227!2d23.5204443!1m5!1m1!1s0x39f7720a874929a9:0x38b8e0691e176312!2m2!1d87.2837139!2d23.5482543?entry=ttu) in Durgapur, India
-* [Air Quality](https://github.com/prasenjit52282/AQuaMoHo/tree/master/Data) Dataset for two cities Durgapur and Delhi, India
-* [BuStop](https://github.com/prasenjit52282/BuStop) framework detects stay-location types for public bus
-* [AQuaMoHo](https://github.com/prasenjit52282/AQuaMoHo) framework annotate air quality from Thermo-Hygrometer
+**Honors & Awards**
+* Commendation for Contribution to Personal Data Protection - Personal Information Protection Commission(PIPC), 2024
+* Commendation for Cyber Defense Operations - ROK Army Cyber Operations Command, 2018, 2020, 2021
+* First Place, Cyber Officier Training Program - ROK Army, 2016
+* Excellence Award, Secure Coding Competition - Korea Internet & Security Agency(KISA), 2014
+* Excellence Award, ROK Army Cybersecurity Challenge, 2014
 
 **Outreach**
 
