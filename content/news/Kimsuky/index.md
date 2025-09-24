@@ -1,6 +1,6 @@
 ---
-date: 2012-04-03
-publishDate: 2014-02-01
+date: 2021-03-12
+publishDate: 2021-03-12
 nolink: true
 #external_link: ""
 image:
@@ -10,7 +10,7 @@ slides: example
 summary: C2 servers and Malwares were shared with the Korea Internet & Security Agency (KISA) and the National Intelligence Service (NIS) to support official analysis.
 tags:
 - Personal
-title: Identified Actionable Threat Intelligence on Kimsuky, APT group of North Korea
+title: Identified Actionable Threat Intelligence on Kimsuky Operations, APT group of North Korea
 links:
   - icon_pack: fas
     icon: scroll
