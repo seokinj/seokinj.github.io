@@ -79,8 +79,8 @@ highlight_name: true
 I'm a security/privacy engineer with hands-on experience in Incident Response, Cyber Threat Intelligence, Malware Analysis, and Vulnerability Assessment. I've delivered tangible results across both technical security and privacy regulations—for example, leading national-level incident responses against state-sponsored cyber threats, building forensic processes for government investigations, and strengthening privacy enforcement frameworks at a national authority. With experience spanning national defense and a government privacy agency, I'm motivated to tackle global-scale challenges where engineering and regulation come together to build secure and privacy-preserving systems.
 
 **Honors & Awards**
-* Commendation for Contribution to Personal Data Protection - Personal Information Protection Commission(PIPC), 2024
-* Commendation for Cyber Defense Operations - ROK Army Cyber Operations Command, 2018, 2020, 2021
-* First Place, Cyber Officier Training Program - ROK Army, 2016
-* Excellence Award, Secure Coding Competition - Korea Internet & Security Agency(KISA), 2014
-* Excellence Award, ROK Army Cybersecurity Challenge, 2014
+* **Commendation for Contribution to Personal Data Protection** - Personal Information Protection Commission(PIPC), 2024
+* **Commendation for Cyber Defense Operations** - ROK Army Cyber Operations Command, 2018, 2020, 2021
+* **First Place, Cyber Officier Training Program** - ROK Army, 2016
+* **Excellence Award, Secure Coding Competition** - Korea Internet & Security Agency(KISA), 2014
+* **Excellence Award, ROK Army Cybersecurity Challenge** - ROK Army,2014
