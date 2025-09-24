@@ -25,7 +25,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Visiting Researcher
-    company: Singapore Management University
+    company: Personal Information Protection Commission
     company_url: 'https://pipc.go.kr'
     company_logo: 'pipc'
     location: 80 Stamford Road, Singapore
