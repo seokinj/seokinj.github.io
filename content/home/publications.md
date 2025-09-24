@@ -1,4 +1,5 @@
 ---
+active: false
 widget: pages
 
 # This file represents a page section.
