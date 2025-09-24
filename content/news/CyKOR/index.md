@@ -1,12 +1,13 @@
 ---
 date: 2012-03
 publishDate: 2014-02
-external_link: ""
+nolink: true
+#external_link: ""
 image:
   caption: Fellowship
   focal_point: Smart
 slides: example
-summary: a world-class hacking organization that has won multiple international CTF competitions including DEFCON
+summary: a world-class hacking club that has won multiple international CTF competitions including DEFCON
 tags:
 - Personal
 title: CyKor, Korea University Hacking Club Founded
