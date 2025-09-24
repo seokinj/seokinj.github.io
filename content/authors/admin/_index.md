@@ -39,7 +39,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Bachelor of Engineering, Division of Information Security (GPA:4.04/4.5)
+    - course: B.E, Division of Information Security (GPA:4.04/4.5)
       institution: Korea University
       year: 2012 - 2016
 
