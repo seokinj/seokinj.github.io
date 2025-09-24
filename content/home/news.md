@@ -3,20 +3,20 @@ active: true
 widget: portfolio
 headless: true
 weight: 30
-title: Higlights
+title: Highlights
 subtitle: ''
 content:
   page_type: news
   filter_default: 0
   filter_button:
-    - name: All
-      tag: '*'
-    - name: Teaching
-      tag: Teaching
-    - name: Open Source
-      tag: Opensource
-    - name: Personal
-      tag: Personal
+    #- name: All
+    #  tag: '*'
+    #- name: Teaching
+    #  tag: Teaching
+    #- name: Open Source
+    #  tag: Opensource
+    #- name: Personal
+    #  tag: Personal
     #- name: Other
     #  tag: Other
 design:

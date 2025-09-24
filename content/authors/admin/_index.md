@@ -30,11 +30,13 @@ bio: I am a doctoral researcher in ubiquitous computing and sensing, currently a
 
 # Interests to show in About widget
 interests:
-  - AI Privacy/Security
-  - Privacy Enhancing Technology
+  - aa
+  - AI privacy
   - Malware Analysis
   - Threat Intelligence
 
+programming:
+  - Python, C/C++, Java, Shell scripting
 # Education to show in About widget
 education:
   courses:
