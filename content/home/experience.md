@@ -34,8 +34,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Investigated privacy incidents
-        * Audited high-risk data processing systems
+        * Investigated 50+ large-scale data breach incidents, and issued enforcemnet actions
+        * Audited high-risk data processing systems across e-commerce, digtal platforms, and sensitive sectors
         * Pioneered the agency's first digital forensic program
 
   - title: Captain, Cyber Threat Intelligence Analyst

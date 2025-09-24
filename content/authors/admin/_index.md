@@ -42,6 +42,7 @@ education:
     - course: Bachelor of Engineering, Information Security
       institution: Korea University
       year: 2012 - 2016
+      GPA : 4.04/4.5
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -84,3 +85,4 @@ I'm a security/privacy engineer with hands-on experience in Incident Response, C
 * **First Place, Cyber Officier Training Program** - ROK Army, 2016
 * **Excellence Award, Secure Coding Competition** - Korea Internet & Security Agency(KISA), 2014
 * **Excellence Award, ROK Army Cybersecurity Challenge** - ROK Army,2014
+* **Academic Excellence Scholarship, 4 semesters** - Korea University, 2013-2, 2014-2, 2015-1, 2015-2
