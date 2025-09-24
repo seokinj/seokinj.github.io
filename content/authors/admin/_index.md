@@ -25,7 +25,7 @@ organizations:
     url: https://pipc.go.kr
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a doctoral researcher in ubiquitous computing and sensing, currently at the IIT Kharagpur (India).
+bio: I am a security & privacy professional, currently at the Personal Information Protection Commission(PIPC) of Korea.
 
 
 # Interests to show in About widget
