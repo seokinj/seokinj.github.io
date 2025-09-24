@@ -26,56 +26,46 @@ date_format: Jan 2006
 experience:
   - title: Deputy Director, Privacy Investigator
     company: Personal Information Protection Commission
-    company_url: 'https://pipc.go.kr'
+    company_url: 'https://pipc.go.kr/'
     company_logo: 'pipc'
     location: 209 Sejong-daero, Jongno-gu, Seoul 03171, Korea
-    date_start: '2025-07-07'
+    date_start: '2023-05-04'
     date_end: ''
     description: |2-
         Responsibilities include:
         
         * Investigated privacy incidents
         * Audited high-risk data processing systems
+        * Pioneered the agency's first digital forensic program
 
   - title: Captain, Cyber Threat Intelligence Analyst
     company: Cyber Operations Command(Cyber Warfare HQ, ROK Army)
     company_url: 'http://www.iitkgp.ac.in/'
     company_logo: 'iitkgp'
-    location: Kharagpur,India
-    date_start: '2022-04-04'
-    date_end: ''
+    location: Seoul, Korea
+    date_start: '2019-06-04'
+    date_end: '2023-05-04'
     description: |2-
         Responsibilities include:
         
-        * Technical Writing
-        * HCI and Sensing Research
-        * Teaching Assistantship
+        * Conducted cyber threat intelligence operations targeting APT groups
+        * Authored CTI reports analyzing APT TTPs
+        * Performed IR(Incident Response) and malware reverse engineering 
+        * Built an automated malware collections and classification systems using Python, Yara rules
 
-  - title: Systems Engineer
-    company: Tata Consultancy Services 
-    company_url: 'https://www.tcs.com/'
-    company_logo: 'tcs'
-    location: Bangalore, India
-    date_start: '2020-11-02'
-    date_end: '2022-04-03'
+  - title: Lieutenant, Cybersecurity Researcher
+    company: Agency for Defense Development(National Defense R&D Institute of Korea)
+    company_url: 'https://www.add.re.kr/'
+    company_logo: 'add'
+    location: Seoul, Korea
+    date_start: '2016-07-04'
+    date_end: '2019-06-04'
     description: |2-
         Responsibilities include:
         
-        * Frontend Development
-
-  - title: Research Intern
-    company: National Institute of Technology Durgapur
-    company_url: 'https://nitdgp.ac.in/'
-    company_logo: 'nitdgp'
-    location: Durgapur, India
-    date_start: '2019-09-20'
-    date_end: '2020-09-20'
-    description: |2-
-        Responsibilities include:
-        
-        * Data Analytics
-        * Machine Learning
-
+        * Conducted vulnerability assessments and security audits of military information systems
+		* Participated R&D projects, including a deep learning-based fuzzer
+		* Participated in joint military exercise as part of both Blue Team and the Red Team
 design:
   columns: '2'
 ---
