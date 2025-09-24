@@ -26,8 +26,8 @@ date_format: Jan 2006
 experience:
   - title: Visiting Researcher
     company: Singapore Management University
-    company_url: 'https://computing.smu.edu.sg/'
-    company_logo: 'smu'
+    company_url: 'https://pipc.go.kr'
+    company_logo: 'pipc'
     location: 80 Stamford Road, Singapore
     date_start: '2025-07-07'
     date_end: ''
