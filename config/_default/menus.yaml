@@ -10,7 +10,7 @@ main:
     url: '/index.html'
     weight: 10
   - name: Highlights
-    url: '/news.html'
+    url: '#Highlights'
     weight: 30
   - name: Background
     url: '#cv'
