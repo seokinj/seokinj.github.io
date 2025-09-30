@@ -1,8 +1,8 @@
 ---
 date: 2025-01-17
 publishDate: 2025-01-17
-nolink: true
-#external_link: ""
+nolink: false
+external_link: "https://www.kimchang.com/en/insights/detail.kc?sch_section=4&idx=31190"
 image:
   #caption: Fellowship
   focal_point: Smart
@@ -11,10 +11,10 @@ summary: transitioning investigations from reliance on corporate self-reporting 
 #tags:
 #- Personal
 title: Established PIPC's first digital forensic program
-links:
-  - icon_pack: fas
-    icon: scroll
-    name: Website
-    url: 'https://www.kimchang.com/en/insights/detail.kc?sch_section=4&idx=31190'
+links: []
+#  - icon_pack: fas
+#    icon: scroll
+#    name: Website
+#    url: 'https://www.kimchang.com/en/insights/detail.kc?sch_section=4&idx=31190'
 
 ---

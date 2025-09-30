@@ -1,8 +1,8 @@
 ---
 date: 2012-04-03
 publishDate: 2014-02-01
-nolink: true
-#external_link: ""
+nolink: false
+external_link: "https://blog.cykor.kr/"
 image:
   #caption: Fellowship
   focal_point: Smart
@@ -11,10 +11,10 @@ summary: a world-class hacking club that has won multiple international CTF comp
 #tags:
 #- Personal
 title: Founded CyKor, Korea University Hacking Club
-links:
-  - icon_pack: fas
-    icon: scroll
-    name: Website
-    url: 'https://blog.cykor.kr/'
+links: []
+#  - icon_pack: fas
+#    icon: scroll
+#    name: Website
+#    url: 'https://blog.cykor.kr/'
 
 ---
