@@ -1,8 +1,8 @@
 ---
 date: 2021-03-12
 publishDate: 2021-03-12
-nolink: true
-#external_link: ""
+nolink: false
+external_link: "https://www.boho.or.kr/en/bbs/view.do?searchCnd=1&bbsId=B0001041&searchWrd=&menuNo=205083&pageIndex=2&categoryCode=&nttId=35936"
 image:
   #caption: Fellowship
   focal_point: Smart
@@ -11,10 +11,11 @@ summary: C2 servers and Malwares were shared with the Korea Internet & Security 
 #tags:
 #- Personal
 title: Identified Actionable Threat Intelligence on Kimsuky Operations, APT group of North Korea
-links:
-  - icon_pack: fas
-    icon: scroll
-    name: Website
-    url: 'https://www.boho.or.kr/en/bbs/view.do?searchCnd=1&bbsId=B0001041&searchWrd=&menuNo=205083&pageIndex=2&categoryCode=&nttId=35936'
+links: []
+#links:
+#  - icon_pack: fas
+#    icon: scroll
+#    name: Website
+#    url: 'https://www.boho.or.kr/en/bbs/view.do?searchCnd=1&bbsId=B0001041&searchWrd=&menuNo=205083&pageIndex=2&categoryCode=&nttId=35936'
 
 ---
